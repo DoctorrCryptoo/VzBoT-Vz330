@@ -2,7 +2,8 @@
 
 [![Discord Invite](https://discordapp.com/api/guilds/829828765512106054/widget.png?style=banner2)](https://discord.gg/KWZWvCMxCq)
 
-High speed, moderately sized 3D-printer, based on the TronXY XS5(A) CoreXY frame,
+
+High Speed, moderately sized 3D-printer, based on the TronXY XS5(A) CoreXY frame,
 but can be easily adapted for other 2020 aluminium extrusion frames.
 
 You can find the complete web model without CAD-Software here: 
